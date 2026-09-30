@@ -4,7 +4,7 @@ define('DB_NAME', 'hrs_db');
 define('DB_USER', 'hrs_user');
 define('DB_PASS', 'your_password_here');
 define('DB_CHARSET', 'utf8mb4');
-define('ANTHROPIC_API_KEY', 'sk-ant-api03-xxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
+define('ANTHROPIC_API_KEY', 'your_anthropic_api_key_here');
 define('ADMIN_USER', 'admin');
 define('ADMIN_PASS', password_hash('your_admin_password', PASSWORD_DEFAULT));
 define('APP_NAME', 'AI要件定義ヒアリング');
